@@ -1,0 +1,7 @@
+timestamp;rightanswer;prompt;totalprocessedimages;correct;correct/totalprocessedimages
+240123113321;yes;Is there a human pedestrian in this image? Answer only either "yes" or "no".;55;55;1.0
+240123114337;no;Is there a human pedestrian in this image? Answer only either "yes" or "no".;83;60;0.7228915662650602
+240123114337;total;Is there a human pedestrian in this image? Answer only either "yes" or "no".;138;115;0.8333333333333334
+240123122243;yes;Is there a human pedestrian in this image? Answer only either "yes" or "no".;55;55;1.0
+240123132244;no;Is there a human pedestrian in this image? Answer only either "yes" or "no".;83;60;0.7228915662650602
+240123132244;total;Is there a human pedestrian in this image? Answer only either "yes" or "no".;138;115;0.8333333333333334

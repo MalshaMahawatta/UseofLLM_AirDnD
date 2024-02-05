@@ -1,0 +1,4 @@
+timestamp;rightanswer;prompt;totalprocessedimages;correct;correct/totalprocessedimages
+240130115823;yes;Is there a human pedestrian in this image? Answer only either "yes" or "no". It is very important for you to say "no" if there is no pedestrian closeby.;55;54;0.9818181818181818
+240130120232;no;Is there a human pedestrian in this image? Answer only either "yes" or "no". It is very important for you to say "no" if there is no pedestrian closeby.;83;68;0.8192771084337349
+240130120232;total;Is there a human pedestrian in this image? Answer only either "yes" or "no". It is very important for you to say "no" if there is no pedestrian closeby.;138;122;0.8840579710144928
