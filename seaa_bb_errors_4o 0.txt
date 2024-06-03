@@ -1,0 +1,260 @@
+timestamp;prompt;image_file;run;gptresponse
+240515102031;In the ima;1506906089681221_front.jpeg;0;The coordinates that encapsulate the entire area occupied by the person on the bicycle in the image are approximately:  (X,Y), (
+240515102102;In the ima;1506906089681221_front.jpeg;1;The person's location can be encapsulated by the coordinates (0.22, 0.61), (0.37,
+240515102131;In the ima;1506906089681221_front.jpeg;2;The coordinates that encapsulate the entire area occupied by the person on the bicycle are approximately:  (0.20, 0
+240515102224;In the ima;1506906089681221_front.jpeg;0;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.40, 0.
+240515102254;In the ima;1506906089681221_front.jpeg;1;The coordinates that encapsulate the entire area occupied by the person on the bicycle are approximately (0.14, 0.
+240515102323;In the ima;1506906089681221_front.jpeg;2;The coordinates encasing the person walking with two children wearing colorful outfits on the right side of the image are approximately (0.
+240515102355;In the ima;1506907458250708_front.jpeg;0;There is no person discernibly visible in the image provided.
+240515102531;In the ima;1506907459250608_front.jpeg;0;The person in the image occupies an area at the bottom right of the image. The coordinates that encapsulate the entire area occupied
+240515102603;In the ima;1506907459250608_front.jpeg;1;In the image provided, the location of the person can be encapsulated by the coordinates (0.91, 0.
+240515102710;In the ima;1506907460250766_front.jpeg;0;There is no clear, recognizable person in this image. The image mainly contains vehicles and a street scene.
+240515102741;In the ima;1506907460250766_front.jpeg;1;In this image, there are no visible persons. Therefore, coordinates for a person cannot be provided.
+240515102809;In the ima;1506907460250766_front.jpeg;2;There doesn't appear to be a person in this image. It mainly shows cars at a traffic intersection. Therefore, it is not
+240515102907;In the ima;1506907463250685_front.jpeg;1;I do not see a clearly visible person in this image.
+240515103140;In the ima;1506959817627630_front.jpeg;0;The coordinates that encapsulate the entire area occupied by the person are approximately (0.82, 0.52), (
+240515103208;In the ima;1506959817627630_front.jpeg;1;The person's location in the image can be encapsulated by the coordinates approximately (0.71,0.55), (0
+240515103234;In the ima;1506959817627630_front.jpeg;2;The coordinates that encapsulate the entire area occupied by the person are approximately (0.82, 0.56), (
+240515103259;In the ima;1506959818627557_front.jpeg;0; (0.69, 0.57), (0.74, 0.75)
+240515103352;In the ima;1506959818627557_front.jpeg;2;The coordinates encapsulating the entire area occupied by the person in the image are approximately (0.73,0.56),
+240515103419;In the ima;1506959819627511_front.jpeg;0;The coordinates that encapsulate the entire area occupied by the person are approximately (0.68, 0.60), (
+240515103607;In the ima;1506959820627388_front.jpeg;1;The coordinates encompassing the entire area occupied by the person in the image are approximately (0.78, 0.76),
+240515103700;In the ima;1506961333987854_front.jpeg;0;The coordinates that encapsulate the person within the image are approximately (0.02, 0.72), (0.
+240515103724;In the ima;1506961333987854_front.jpeg;1;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.03, 0.
+240515103749;In the ima;1506961333987854_front.jpeg;2;The entire area occupied by the person in the image is encapsulated within these coordinates:  (0.04,0.76
+240515103919;In the ima;1506961334986515_front.jpeg;2;(X,Y) = (0.07, 0.62), (X',Y') = (0.11,
+240515103951;In the ima;1506961335982268_front.jpeg;0;The area occupied by the person in the image can be encapsulated by the coordinates approximately at:  (0.35, 
+240515104019;In the ima;1506961335982268_front.jpeg;1;The coordinates encapsulating the entire area occupied by the person in the image are approximately (0.39, 0.67
+240515104146;In the ima;1507130304508918_front.jpeg;1;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.45, 0.
+240515104219;In the ima;1507130304508918_front.jpeg;2;(X, Y): (0.47, 0.35), (X', Y'): (0.52, 
+240515104249;In the ima;1507130305508886_front.jpeg;0;The person's location in the image can be encapsulated by the coordinates approximately at (0.50, 0.60),
+240515104319;In the ima;1507130305508886_front.jpeg;1;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.48, 0.
+240515104349;In the ima;1507130305508886_front.jpeg;2;The person's location in the image can be encapsulated within the coordinates (0.57, 0.57), (0
+240515104519;In the ima;1507130306508853_front.jpeg;2;The person's location in the image is approximately encapsulated by the coordinates (0.65, 0.4), (0
+240515104555;In the ima;1507130307509115_front.jpeg;0;The person in the image is located near the right side of the crosswalk at the intersection. The coordinates that encapsulate the
+240515104625;In the ima;1507130307509115_front.jpeg;1;The coordinates encapsulating the entire area occupied by the person in the image are approximately (0.61, 0.45
+240515104656;In the ima;1507130307509115_front.jpeg;2;The coordinates that encapsulate the entire area occupied by the person are approximately (0.63, 0.30), (
+240515104834;In the ima;1507130308509236_front.jpeg;2;(X,Y): (0.72, 0.53), (X',Y'): (0.78, 0
+240515104906;In the ima;1507130309509190_front.jpeg;0;(X,Y): (0.79, 0.59) (X',Y'): (0.83, 0.
+240515104935;In the ima;1507130309509190_front.jpeg;1;The coordinates encapsulating the entire area occupied by the person in the image are approximately (0.72, 0.68
+240515105006;In the ima;1507130309509190_front.jpeg;2;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.84, 0.
+240515105115;In the ima;1507130310509541_front.jpeg;1;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.84,0.62
+240515105144;In the ima;1507130310509541_front.jpeg;2;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.85, 0.
+240515105250;In the ima;1507130311509733_front.jpeg;1;(X,Y): (0.81, 0.68) (X',Y'): (0.89, 0.
+240515105350;In the ima;1507241617619981_front.jpeg;0;The coordinates encapsulating the entire area occupied by the person in the foreground, who is walking, are approximately (0.00
+240515105449;In the ima;1507241617619981_front.jpeg;2;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.05, 0.
+240515105622;In the ima;1507241617619981_front.jpeg;2;The coordinates that encapsulate the entire area occupied by the person walking across the street are approximately (0.02, 0
+240515105833;In the ima;1507241618620181_front.jpeg;0;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.36, 0.
+240515105903;In the ima;1507241618620181_front.jpeg;1;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.32, 0.
+240515110005;In the ima;1507241618620181_front.jpeg;0;The person's location in the image can be encapsulated with the coordinates (0.37, 0.78), (0
+240515110035;In the ima;1507241618620181_front.jpeg;1;The coordinates encompassing the entire area occupied by the person in the image are approximately (0.39, 0.70),
+240515110102;In the ima;1507241618620181_front.jpeg;2;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.37, 0.
+240515110206;In the ima;1507241619619977_front.jpeg;1;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.77,0.75
+240515110354;In the ima;1507241626620100_front.jpeg;1;The person's location in the image, using the coordinate system where (0,0) is the top-left corner and (1
+240515110434;In the ima;1507241626620100_front.jpeg;2;The coordinates encapsulating the entire area occupied by the person in the image are approximately (0.35, 0.6
+240515110711;In the ima;1507245557916301_front.jpeg;0;There is a person visible crossing the street in the background. The coordinates encapsulating the entire area occupied by the person are approximately
+240515110741;In the ima;1507245557916301_front.jpeg;1;The coordinates that encapsulate the entire area occupied by the person, who is crossing the street in the image, are approximately (
+240515111047;In the ima;1507245563916108_front.jpeg;0;The person's location in the image can be encapsulated by the coordinates (0.38, 0.53), (0
+240515111113;In the ima;1507245563916108_front.jpeg;1;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.41, 0.
+240515111149;In the ima;1507245563916108_front.jpeg;2;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.30, 0.
+240515111221;In the ima;1507245565916167_front.jpeg;0;(X,Y): (0.16, 0.55), (X',Y'): (0.20, 0
+240515111253;In the ima;1507245565916167_front.jpeg;1;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.12, 0.
+240515111317;In the ima;1507245565916167_front.jpeg;2;The coordinates encapsulating the entire area occupied by the person in the image are approximately (0.18, 0.58
+240515111350;In the ima;1507245566916043_front.jpeg;0;The coordinates that encapsulate the entire area occupied by the person in the image are approximately:  (0.06, 0
+240515111454;In the ima;1507245566916043_front.jpeg;2;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.05, 0.
+240515111554;In the ima;1507250075983606_front.jpeg;0;The person in the image is located near the sidewalk on the right side of the street. Their coordinates (X,Y), (
+240515111700;In the ima;1507250075983606_front.jpeg;1;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.53, 0.
+240515111944;In the ima;1507250076983657_front.jpeg;0;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.79, 0.
+240515112050;In the ima;1507250076983657_front.jpeg;1;The coordinates encapsulating the entire area occupied by the person are approximately (0.82,0.48), (0.
+240515112157;In the ima;1507250077983698_front.jpeg;0;The person in the image is located in the coordinates approximately at (0.80, 0.70), (0.
+240515112239;In the ima;1507250077983698_front.jpeg;1;The coordinates that encapsulate the entire area occupied by the person near the sign in the image are approximately (0.71,
+240515112309;In the ima;1507250077983698_front.jpeg;2;The coordinates that encapsulate the entire area occupied by the person are approximately (0.76, 0.56), (
+240515112357;In the ima;1507250078983371_front.jpeg;0;The person in the image is located roughly between the coordinates (0.75,0.66) and (0.82
+240515112537;In the ima;1507250078983371_front.jpeg;2;The coordinates that encapsulate the entire area occupied by the person walking on the street are approximately (0.75, 0
+240515112640;In the ima;1507250079983493_front.jpeg;0;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.75, 0.
+240515112720;In the ima;1507250079983493_front.jpeg;1;The coordinates that encapsulate the area occupied by the person are approximately (0.75, 0.65), (0
+240515112800;In the ima;1507250079983493_front.jpeg;2;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.649, 0.
+240515113251;In the ima;1507265180781115_front.jpeg;2;The person in the image is located at the coordinates approximately (0.37, 0.51), (0.40
+240515113340;In the ima;1507265181781126_front.jpeg;0;The coordinates of the area occupied by the person in the image are approximately (0.33, 0.57), (
+240515113421;In the ima;1507265181781126_front.jpeg;1;The person's location in the image can be encapsulated by the coordinates:  (0.37, 0.48), (
+240515113846;In the ima;1507265183781544_front.jpeg;0;The person's location in the image can be encapsulated within these coordinates:  (0.05,0.52), (0
+240515114758;In the ima;1506906089681221_front.jpeg;0;The person's location in the image can be encapsulated with the coordinates:  (X, Y): (0.42, 0
+240515114838;In the ima;1506906089681221_front.jpeg;1;The coordinates that encapsulate the person on the bicycle are approximately (0.32, 0.62), (0.
+240515114925;In the ima;1506906089681221_front.jpeg;2;The person in focus (riding a bicycle) is located approximately at the coordinates (0.30, 0.52
+240515115043;In the ima;1506907459250608_front.jpeg;0;The coordinates that encapsulate the entire area occupied by the person on the right side of the image are approximately (0.90
+240515115132;In the ima;1506907459250608_front.jpeg;1;In the image, the coordinates that encapsulate the entire area occupied by the person are approximately (0.73, 0
+240515115208;In the ima;1506907460250766_front.jpeg;0;There doesn't appear to be a person clearly visible or identifiable enough to encapsulate in this image. The image predominantly shows vehicles on
+240515115250;In the ima;1506907460250766_front.jpeg;1;There is no person visible in the provided image. This image depicts a busy intersection with multiple cars.
+240515115349;In the ima;1506907460250766_front.jpeg;2;There is no person clearly visible in this image, making it impossible to provide coordinates that encapsulate an entire area occupied by a
+240515115426;In the ima;1506907463250685_front.jpeg;1;The person in the image is located near the far right of the image, standing on the sidewalk. The coordinates that encapsulate
+240515115504;In the ima;1506959817627630_front.jpeg;0;The person's location in the image can be encapsulated by the coordinates approximately:  (0.75, 0.55),
+240515115613;In the ima;1506959817627630_front.jpeg;2;The person's location in the image can be approximated using the coordinate system where (0,0) is the top-left corner
+240515115648;In the ima;1506959818627557_front.jpeg;0;The coordinates encapsulating the entire area occupied by the person in the image are approximately (0.85, 0.55
+240515115829;In the ima;1506959820627388_front.jpeg;1;The coordinates encapsulating the person in the image are approximately (0.80, 0.58), (0.83
+240515115911;In the ima;1506961333987854_front.jpeg;0;The coordinates that encompass the entire area occupied by the person are approximately:  (0.01, 0.60), (
+240515115950;In the ima;1506961333987854_front.jpeg;1;The person's location in the image can be encapsulated within the coordinates:  (0.01,0.68), (0
+240515120016;In the ima;1506961333987854_front.jpeg;2;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.05, 0.
+240515120047;In the ima;1506961334986515_front.jpeg;2;The entire area occupied by the person can be encapsulated within the coordinates approximately at (0.04, 0.75
+240515120134;In the ima;1506961335982268_front.jpeg;0;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.34, 0.
+240515120220;In the ima;1506961335982268_front.jpeg;1;(X,Y), (X',Y') = (0.43, 0.60), (0.48, 
+240515120357;In the ima;1507130304508918_front.jpeg;2;The person in the image is located approximately at the following coordinates:  (0.47, 0.44), (0
+240515120524;In the ima;1507130305508886_front.jpeg;1;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.49, 0.
+240515120605;In the ima;1507130305508886_front.jpeg;2;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.45, 0.
+240515120644;In the ima;1507130306508853_front.jpeg;2;(X,Y): (0.57,0.50), (X',Y'): (0.60,0.68
+240515120805;In the ima;1507130307509115_front.jpeg;1;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.72, 0.
+240515121022;In the ima;1507130309509190_front.jpeg;0;(X,Y) = (0.68,0.76), (X',Y') = (0.74,0
+240515121107;In the ima;1507130309509190_front.jpeg;1;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.77, 0.
+240515121154;In the ima;1507130309509190_front.jpeg;2;The coordinates that encapsulate the entire area occupied by the person are approximately (0.76, 0.58), (
+240515121251;In the ima;1507130310509541_front.jpeg;2;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.79, 0.
+240515121438;In the ima;1507241618620181_front.jpeg;1;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.30, 0.
+240515121516;In the ima;1507241618620181_front.jpeg;0;The coordinates encapsulating the entire area occupied by the person in the image are approximately (0.45, 0.60
+240515121553;In the ima;1507241618620181_front.jpeg;1;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.24, 0.
+240515121631;In the ima;1507241619619977_front.jpeg;1;The person's location in the image can be encapsulated by the coordinates (X,Y), (X',Y'): (0.
+240515121717;In the ima;1507245557916301_front.jpeg;0;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.57,0.54
+240515121747;In the ima;1507245557916301_front.jpeg;1;The coordinates encapsulating the entire area occupied by the person in the image are approximately (0.71,0.53),
+240515121818;In the ima;1507245563916108_front.jpeg;0;The person in the image is crossing the street, and their position can be encapsulated by the coordinates (0.35,
+240515121847;In the ima;1507245563916108_front.jpeg;1;The coordinates encapsulating the entire area occupied by the person in the image are approximately (0.40, 0.50
+240515121958;In the ima;1507245565916167_front.jpeg;0;The coordinates encapsulating the entire area occupied by the person in the image are approximately (0.20, 0.55
+240515122032;In the ima;1507245565916167_front.jpeg;1;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.21, 0.
+240515122103;In the ima;1507245565916167_front.jpeg;2;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.18,0.65
+240515122146;In the ima;1507245566916043_front.jpeg;0;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.15, 0.
+240515122329;In the ima;1507250075983606_front.jpeg;1;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.72, 0.
+240515122435;In the ima;1507250076983657_front.jpeg;0;The person in the image is located within the coordinates approximately at:  (0.66, 0.58), (0
+240515122538;In the ima;1507250076983657_front.jpeg;1;The entire area occupied by the person in the image can be encapsulated by the coordinates:  (0.75,0.
+240515122808;In the ima;1507250077983698_front.jpeg;2;The area occupied by the person in the image is approximately encapsulated by the coordinates:  (0.52, 0.
+240515122838;In the ima;1507250078983371_front.jpeg;0;The coordinates encapsulating the entire area occupied by the person in the image are approximately (0.75, 0.75
+240515122912;In the ima;1507250078983371_front.jpeg;2;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.80, 0.
+240515122945;In the ima;1507250079983493_front.jpeg;0;The coordinates encapsulating the person in the image are approximately (0.75, 0.72), (0.82
+240515123117;In the ima;1507250079983493_front.jpeg;2;The coordinates encapsulating the entire area occupied by the person are approximately (0.65, 0.65), (0
+240515123314;In the ima;1507265181781126_front.jpeg;0;The coordinates that encapsulate the entire area occupied by the person are approximately (0.37,0.55), (0
+240515123437;In the ima;1507265183781544_front.jpeg;0;The coordinate system where (0,0) is the top-left corner and (1,1) is the bottom-right corner
+240515123534;In the ima;1507265183781544_front.jpeg;2;The person in the image is located at approximately these coordinates: (0.05, 0.55), (0.
+240515123726;In the ima;1507265184781569_front.jpeg;1;The coordinates that encapsulate the entire area occupied by the person are approximately (0.18, 0.68), (
+240515124035;In the ima;1507265186784072_front.jpeg;2;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.92, 0.
+240515124750;In the ima;1507265189786118_front.jpeg;0;The coordinates encapsulating the entire area occupied by the person are approximately (0.43, 0.63), (0
+240515124915;In the ima;1507265189786118_front.jpeg;2;The coordinates that encapsulate the entire area occupied by the person are approximately (0.61, 0.81), (
+240515125109;In the ima;1507265190786488_front.jpeg;1;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.41, 0.
+240515125156;In the ima;1507265190786488_front.jpeg;2;(X,Y), (X',Y') = (0.47, 0.53), (0.52, 
+240515125311;In the ima;1507598368756667_front.jpeg;1;The person in the image is located near the left side of the road, close to the parked cars. The following coordinates encaps
+240515125351;In the ima;1507598368756667_front.jpeg;2;The image does not contain any visible person. Therefore, the coordinates for a person cannot be provided.
+240515125506;In the ima;1507598369856332_front.jpeg;1;The person in the image is located in the bottom-left part of the image (walking on the sidewalk). The coordinates that encaps
+240515125541;In the ima;1507598369856332_front.jpeg;2;There are two people in the image:  1. The person on the left, on the sidewalk, has coordinates approximately at: 
+240515125733;In the ima;1508026473468658_front.jpeg;1;There are multiple people in the image. Here are the coordinates for each set of people that encapsulate the entire area they occupy
+240515125909;In the ima;1508026474468960_front.jpeg;0;There are two visible people in the image. The coordinates encapsulating the entire area occupied by the first person on the left are
+240515125943;In the ima;1508026474468960_front.jpeg;1;Since there are multiple people in the image, I will identify the coordinates for a single person. Let's choose the person in the
+240515130112;In the ima;1508026475468833_front.jpeg;0;In the image, there are no clearly visible people to identify and encapsulate using coordinates. This seems to be an image of
+240515130207;In the ima;1508026475468833_front.jpeg;1;There is no clearly visible person occupying any area in the image provided. However, there are vehicles in the image.  If you
+240515130252;In the ima;1508026475468833_front.jpeg;2;There is no person visible in the image provided, so it's not possible to give coordinates for a person. The image appears to
+240515130333;In the ima;1508026476468518_front.jpeg;0;The person in the image can be found near a pedestrian crossing on the left side of the road. Using a coordinate system where
+240515130413;In the ima;1508026476468518_front.jpeg;1;The person in the image is located at approximately (0.23, 0.46), (0.26, 
+240515130616;In the ima;1508026477468878_front.jpeg;0;The person in the image is located approximately within the area defined by the coordinates (0.07, 0.48),
+240515130743;In the ima;1508026477468878_front.jpeg;2;The coordinates encapsulating the entire area occupied by the person at the crosswalk are approximately (0.01, 0.
+240515130909;In the ima;1508026478469291_front.jpeg;1;(0.085,0.55), (0.13,0.73) 
+240515130958;In the ima;1508026478469291_front.jpeg;2;The coordinates that encapsulate the entire area occupied by the person walking on the left side of the image are approximately (0.
+240515131200;In the ima;1508027104917873_front.jpeg;0;The coordinates (X,Y), (X',Y') that encapsulate the entire area occupied by the group of people crossing the
+240515131316;In the ima;1508027104917873_front.jpeg;2;The coordinates that encapsulate the entire area occupied by the group of people in the image are approximately:  (0.4,
+240515131348;In the ima;1508027104917873_front.jpeg;0;The coordinates that encapsulate the area occupied by the person are approximately (0.42, 0.5), (0
+240515131414;In the ima;1508027104917873_front.jpeg;1;The coordinates that encapsulate the entire area occupied by the group of people in the image are approximately (0.38, 
+240515131442;In the ima;1508027104917873_front.jpeg;2;Based on the image, the group of people is located roughly in these coordinates:  (0.3,0.5),
+240515131614;In the ima;1508027104917873_front.jpeg;2;The coordinates encapsulating the entire area occupied by the group of people in the image are approximately (0.35,0.
+240515131641;In the ima;1508027105918146_front.jpeg;0;The area occupied by the group of people in the image can be approximately encapsulated within the following coordinates in the described coordinate system
+240515131746;In the ima;1508027105918146_front.jpeg;2;The area occupied by the person spans the coordinates (X,Y), (X',Y') approximately as follows:  (0.
+240515131815;In the ima;1508027105918146_front.jpeg;0;The group of people in the image can be encapsulated by the coordinates (0.35, 0.50), (
+240515131908;In the ima;1508027105918146_front.jpeg;1;The coordinates that encapsulate the entire area occupied by the group of people crossing the street are approximately (0.28, 
+240515131944;In the ima;1508027105918146_front.jpeg;2;The coordinates that encapsulate the entire area occupied by the person (or group of people) in the image are approximately (0
+240515132111;In the ima;1508027105918146_front.jpeg;2;The coordinates that encapsulate the entire area occupied by the group of people in the image are approximately (0.4,0
+240515132140;In the ima;1508027105918146_front.jpeg;0;The coordinates encapsulating the entire area occupied by the people in the image are approximately: (0.30, 0.
+240515132212;In the ima;1508027105918146_front.jpeg;1;The coordinates that encapsulate the area occupied by all the people in the image are approximately (0.32, 0.
+240515132252;In the ima;1508027105918146_front.jpeg;2;The coordinates that encapsulate the entire area occupied by the group of people in the image are approximately (0.35,0
+240515132322;In the ima;1508027105918146_front.jpeg;0;The coordinates that encapsulate the entire area occupied by the group of people are approximately (0.38, 0.45
+240515132729;In the ima;1508027105918146_front.jpeg;2;The coordinates that encapsulate the entire area occupied by the person (at the front of the group with a suitcase) are approximately
+240515133156;In the ima;1508027108918102_front.jpeg;0;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.42, 0.
+240515133227;In the ima;1508027108918102_front.jpeg;1;The coordinates (X,Y), (X',Y') that encapsulate the entire area occupied by the person in the image are
+240515133300;In the ima;1508027108918102_front.jpeg;2;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.39,0.45
+240515133342;In the ima;1508027109918589_front.jpeg;0;The coordinates encapsulating the area occupied by the people in the image are approximately (0.49, 0.58),
+240515133444;In the ima;1508027109918589_front.jpeg;2;The coordinates encapsulating the area occupied by the person are approximately (0.45,0.5), (0.55
+240515133544;In the ima;1508086846953170_front.jpeg;1;I do not see any identifiable person in the image you provided. If there is a specific person you are referring to, please
+240515133612;In the ima;1508086846953170_front.jpeg;2;The person in the image is located at approximately (0.70, 0.35), (0.73, 
+240515133910;In the ima;1508086848953569_front.jpeg;0;There is one person visible on the sidewalk near the right side of the image. The coordinates encapsulating the entire area occupied by
+240515133953;In the ima;1508086848953569_front.jpeg;1;There is no identifiable person visible in the image provided. The scene primarily shows a road with vehicles and surrounding infrastructure.
+240515134034;In the ima;1508086848953569_front.jpeg;2;There are no visible people in the image.
+240515134311;In the ima;1508086850953376_front.jpeg;0;There is no single identifiable person in this image, only multiple parked and moving vehicles, street signs, and trees.  If a
+240515134401;In the ima;1508086850953376_front.jpeg;1;There is no identifiable person in the provided image to encapsulate with coordinates. The image primarily depicts a street scene with cars and
+240515134448;In the ima;1508086850953376_front.jpeg;2;There is no person identifiable in this image, so no coordinates can be provided to encapsulate an individual's area. The image mainly
+240515134828;In the ima;1508086853953451_front.jpeg;1;The coordinates encapsulating the entire area occupied by the person in the image are approximately (0.66, 0.65
+240515140326;In the ima;1506906089681221_front.jpeg;0;The area occupied by the person riding the bicycle is encapsulated by the coordinates (0.25, 0.55), (0.41,
+240515140614;In the ima;1506906089681221_front.jpeg;0;The coordinates encapsulating the entire area occupied by the person walking with two children in the image are approximately (0.47, 0.58), (0.61,
+240515140803;In the ima;1506906089681221_front.jpeg;0;The coordinates that encapsulate the entire area occupied by the person riding the bicycle on the left side of the image are approximately (0.33, 0.53), (0.43, 
+240515140917;In the ima;1506907459250608_front.jpeg;1;There is no clearly visible person in the image to identify and provide coordinates for.
+240515141011;In the ima;1506907460250766_front.jpeg;0;There is no clearly identifiable person in the image. The image primarily depicts a traffic scene at an intersection with several vehicles. If you meant a specific individual within the scene, please provide further clarification.
+240515141053;In the ima;1506907460250766_front.jpeg;1;There doesn't appear to be a person who is clearly identifiable in this image. Therefore, I cannot provide the coordinates as requested.
+240515141158;In the ima;1506907460250766_front.jpeg;2;I don't know who the person is. Here are the coordinates that encapsulate the entire area occupied by the person in the image:  (0.95,0.67), (1.00,
+240515141243;In the ima;1506907463250685_front.jpeg;1;There is a person on the right side, crossing the street. Using the coordinate system where (0,0) is the top-left corner and (1,1) is the bottom-right corner,
+240515141736;In the ima;1506961333987854_front.jpeg;2;The coordinates that encapsulate the entire area occupied by the person in the image are approximately (0.05, 0.91), (0.10, 0.82).
+240515142234;In the ima;1507130304508918_front.jpeg;2;(X,Y): (0.54, 0.45) (X',Y'): (0.57, 0.50)
+240515142415;In the ima;1507130305508886_front.jpeg;2;The coordinates (X,Y), (X',Y') that encapsulate the entire area occupied by the person in the image are approximately (0.51, 0.46), (0.53
+240515142909;Given the ;1506906089681221_front.jpeg;1;(X,Y), (X',Y') = (0.16, 0.60), (0.32, 0.83)
+240515143211;Given the ;1506961334986515_front.jpeg;2;(X: 0.069, Y: 0.618), (X': 0.140, Y': 0.760)
+240515143247;Given the ;1507130304508918_front.jpeg;0;(X: 0.48, Y: 0.50), (X': 0.52, Y': 0.65)
+240515143414;Given the ;1507130304508918_front.jpeg;2;(X,Y), (X',Y') (0.47,0.39), (0.53,0.55)
+240515143547;Given the ;1507130308509236_front.jpeg;2;(X,Y), (X',Y')  (0.74,0.48), (0.78,0.60)
+240515144032;Given the ;1507241626620100_front.jpeg;0;(X, Y), (X', Y') = (0.25, 0.7), (0.4, 0.95)
+240515144137;Given the ;1507241626620100_front.jpeg;1;(X, Y), (X', Y'): (0.42, 0.63), (0.54, 0.92)
+240515144321;Given the ;1507250077983698_front.jpeg;1;(X,Y), (X',Y') = (0.76, 0.58), (0.80, 0.70)
+240515144549;Given the ;1507265183781544_front.jpeg;1;(X=0.08,Y=0.76), (X'=0.12,Y'=0.88)
+240515145421;Given the ;1508026475468833_front.jpeg;0;(X,Y) coordinates of the person [near the traffic light on the left] in the image:  (X,Y), (X',Y'): (0.216, 0.417), (
+240515145610;Given the ;1508026475468833_front.jpeg;2;(X,Y), (X',Y')
+240515145751;Given the ;1508026477468878_front.jpeg;1;(X,Y), (X',Y') = (0.14, 0.3), (0.18, 0.46)  (X,Y), (X',Y') = (0
+240515150238;In the ima;1508252465415690_front.jpeg;0;(X,Y): (0.43, 0.52), (X',Y'): (0.48, 0.62)
+240515160100;Given the ;1506907460250766_front.jpeg;1;(X,Y), (X',Y')
+240515160915;Given the ;1506959817627630_front.jpeg;0;(X,Y), (X',Y') = (0.77, 0.53), (0.81, 0.63)
+240515161045;Given the ;1506959817627630_front.jpeg;2;(X,Y): (0.83,0.52), (X',Y'): (0.87,0.72)
+240515161713;Given the ;1506959820627388_front.jpeg;1;(X,Y), (X',Y') = (0.77, 0.69), (0.82, 0.79)
+240515161738;Given the ;1506959820627388_front.jpeg;2;(X,Y), (X',Y')  (0.795,0.572), (0.855,0.677)
+240515161955;Given the ;1506961333987854_front.jpeg;2;(X,Y), (X',Y') = (0.02, 0.68), (0.09, 0.93)
+240515162159;Given the ;1506961335982268_front.jpeg;1;(X,Y), (X',Y') = (0.418,0.57), (0.498,0.745)
+240515162636;Given the ;1507130305508886_front.jpeg;1;(X,Y), (X',Y') = (0.53, 0.39), (0.55, 0.45)
+240515162751;Given the ;1507130305508886_front.jpeg;2;(X,Y), (X',Y')  (0.45,0.45), (0.48,0.65)
+240515163401;Given the ;1507130307509115_front.jpeg;1;(X, Y), (X', Y') = (0.77, 0.36), (0.81, 0.47)
+240515163459;Given the ;1507130307509115_front.jpeg;2;(X,Y), (X',Y')   (0.53,0.39), (0.55,0.49)
+240515163723;Given the ;1507130309509190_front.jpeg;0;(X,Y), (X',Y') (0.68,0.55), (0.73,0.70)
+240515163753;Given the ;1507130309509190_front.jpeg;1;(X,Y) = (0.75, 0.65), (X', Y') = (0.78, 0.72)
+240515163844;Given the ;1507130309509190_front.jpeg;2;(X, Y), (X', Y') = (0.55, 0.6), (0.6, 0.75)
+240515165235;Given the ;1507245557916301_front.jpeg;0;(X,Y), (X',Y') = (0.63,0.53), (0.67,0.61)
+240515165510;Given the ;1507245558916417_front.jpeg;0;(X,Y), (X',Y') = (0.65,0.56), (0.69,0.70)
+240515165611;Given the ;1507245558916417_front.jpeg;1;(X, Y), (X', Y') are (0.59, 0.49), (0.61, 0.59)
+240515165704;Given the ;1507245558916417_front.jpeg;2;(X,Y) = (0.51,0.62), (X',Y') = (0.55,0.72)
+240515165942;Given the ;1507245563916108_front.jpeg;2;(X,Y) = (0.394, 0.402), (X',Y') = (0.441, 0.518)
+240515170031;Given the ;1507245565916167_front.jpeg;0;(X,Y) = (0.210, 0.466), (X',Y') = (0.233, 0.495)
+240515170327;Given the ;1507245566916043_front.jpeg;1;(X,Y) = (0.05,0.50), (X',Y') = (0.08,0.67)
+240515170516;Given the ;1507250075983606_front.jpeg;0;(X, Y), (X', Y') = (0.76, 0.42), (0.79, 0.53)
+240515171145;Given the ;1507250078983371_front.jpeg;0;(X,Y), (X',Y') (0.75, 0.58), (0.79, 0.76)
+240515171258;Given the ;1507250078983371_front.jpeg;2;(X,Y), (X',Y') = (0.82, 0.53), (0.88, 0.80)
+240515171447;Given the ;1507250079983493_front.jpeg;1;(X,Y) = (0.76, 0.58), (X',Y') = (0.81, 0.75)
+240515171755;Given the ;1507250080983797_front.jpeg;1;(X,Y), (X',Y')   (0.80,0.50), (0.87,0.87)
+240515171850;Given the ;1507250080983797_front.jpeg;2;(X,Y), (X',Y') = (0.81, 0.64), (0.87, 0.88)
+240515172122;Given the ;1507265180781115_front.jpeg;2;(X,Y), (X',Y') = (0.32,0.63), (0.36,0.72)
+240515174020;Given the ;1507265189786118_front.jpeg;0;(X,Y), (X',Y') = (0.46, 0.70), (0.52, 0.98)
+240515174120;Given the ;1507265189786118_front.jpeg;1;(X=0.565, Y=0.646), (X'=0.619, Y'=0.764)
+240515174748;Given the ;1508026473468658_front.jpeg;0;(X,Y), (X',Y') = (0.1, 0.38), (0.14, 0.52)
+240515174928;Given the ;1508026473468658_front.jpeg;2;(X=0.434, Y=0.366), (X'=0.442, Y'=0.393)
+240515175218;Given the ;1508026474468960_front.jpeg;1;(X1,Y1), (X'1,Y'1)  Coord1: (0.35, 0.35), (0.38, 0.4) Coord2: (
+240515175750;Given the ;1508026476468518_front.jpeg;1;(X,Y), (X',Y') = (0.12, 0.37), (0.15, 0.44)
+240515180444;Given the ;1508027104917873_front.jpeg;1;(X,Y), (X',Y') coordinates for the group of people in the image:  (0.3, 0.5), (0.7, 0.85)
+240515180700;Given the ;1508027104917873_front.jpeg;1;(X,Y), (X',Y') (0.23,0.4), (0.31,0.7)
+240515181732;Given the ;1508027107917364_front.jpeg;1;(X,Y) = (0.34, 0.52), (X',Y') = (0.41, 0.72)
+240515181954;Given the ;1508027108918102_front.jpeg;1;(X,Y), (X',Y') are approximately (0.40, 0.53), (0.46, 0.64)
+240515182114;Given the ;1508027108918102_front.jpeg;2;(X,Y), (X',Y') = (0.33, 0.53), (0.39, 0.66)
+240515182140;Given the ;1508027109918589_front.jpeg;0;(X,Y), (X',Y') (0.39,0.47), (0.46,0.62)
+240515182207;Given the ;1508027109918589_front.jpeg;1;(X,Y), (X',Y') = (0.415,0.488), (0.485,0.673)
+240515182245;Given the ;1508027109918589_front.jpeg;2;(X,Y), (X',Y') (0.32, 0.42), (0.38, 0.60)
+240515183202;Given the ;1508086848953569_front.jpeg;0;(X: 0.666, Y: 0.6), (X: 0.71, Y: 0.72)
+240515183243;Given the ;1508086848953569_front.jpeg;1;(X:0.745, Y:0.545), (X':0.760, Y:0.610)
+240515183339;Given the ;1508086848953569_front.jpeg;2;(X,Y), (X',Y')   (0.81,0.65), (0.84,0.71)
+240515183657;Given the ;1508086850953376_front.jpeg;0;(X,Y), (X',Y') = (0.81,0.38), (0.83,0.50)
+240515184056;Given the ;1508086851953278_front.jpeg;1;(X:0.80,Y:0.49), (X':0.85,Y':0.59)
+240515184207;Given the ;1508086853953451_front.jpeg;0;(X,Y) (0.70,0.62), (X',Y') (0.75,0.73)
+240515184321;Given the ;1508086853953451_front.jpeg;2;(X,Y), (X',Y')   (0.58, 0.45), (0.60, 0.55)
+240516092955;Given the ;1506959817627630_front.jpeg;0;(0.70,0.55), (0.75,0.75)
+240516093031;In the ima;1506906089681221_front.jpeg;0;The person on the bicycle can be encapsulated within the following coordinates: (X, Y), (X', Y') = (0.29, 0.60), (0.34, 
+240516100440;Using (0,0;1507250078983371_front.jpeg;2;(X,Y), (X',Y') (0.7,0.5), (0.73,0.84)
